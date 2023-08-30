@@ -1,6 +1,5 @@
 # HEATWAVE & AQI PREDICTION
 Foreacsting the heatwave and AQI occurences for 5 districts of Telangana - Adilabad, Karimnagar, Khammam, Nizamabad & Warangal for the year 2023
-https://sonarcloud.io/summary/overall?id=examly-test_f25cdd11-ee25-46fb-91db-aba028d3e2e9
 ## How to run 
 * Download the entire repo as a zip file
 * Run the 'Heatwave-Final.ipynb' file with other 10 dataset files in the same folder as the notebook file
